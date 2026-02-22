@@ -1,0 +1,9 @@
+services:
+  resolucion_confictos:
+    build:
+      context: .
+    container_name: resolucion_confictos
+    ports:
+      - "2225:22"
+    volumes:
+      - .:/root/resolucion_confictos
