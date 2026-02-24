@@ -205,7 +205,10 @@ La IA está transformando el turismo de forma radical: chatbots para reservas y 
 ## 7.1. Transformación de roles y motivación
 
 *   **Tareas mecánicas eliminadas:** La IA libera al personal de tareas repetitivas y de bajo valor añadido (emitir facturas, responder a las preguntas más frecuentes, gestionar el inventario básico). Esto reduce la **carga cognitiva** y la fatiga, permitiendo dedicar tiempo y energía a lo que el cerebro humano hace mejor: la **empatía genuina**, la **intuición contextual**, la **creatividad para sorprender al cliente** y la **resolución de conflictos complejos** que requieren matices emocionales.
-*   **Nuevas competencias y motivación:** Los empleados deben formarse en interpretación de datos, manejo de herramientas de IA y pensamiento crítico para cuestionar las sugerencias del algoritmo. Esto puede ser altamente motivador para los jóvenes (oportunidad de crecimiento y maestría) y una fuente de ansiedad para los veteranos (amenaza a su competencia). La clave está en enmarcar esta formación como una **oportunidad de desarrollo** y proporcionar **seguridad psicológica** para experimentar con la nueva tecnología sin miedo al ridículo.
+*   **Nuevas competencias y motivación:** Los empleados deben formarse en interpretación de datos, manejo de IA y pensamiento crítico. Para los jóvenes es motivador (crecimiento); para los veteranos, ansiedad (amenaza a su competencia). La clave: enmarcar la formación como **oportunidad de desarrollo** y garantizar **seguridad psicológica** para experimentar sin miedo.
+
+\newpage
+
 *   **Cambio en la motivación intrínseca:** Para los veteranos, la IA puede pasar de ser una amenaza a una herramienta que **potencia** su trabajo. Por ejemplo, el sistema les avisa de que un cliente habitual cumple años y sugiere un detalle personalizado basado en sus compras anteriores. El veterano aporta el "cómo" (el detalle perfecto, la entrega con una sonrisa y una frase personal), y la IA aporta el "qué" (el dato). Esto refuerza su rol de anfitrión y valida su experiencia, en lugar de sustituirla.
 
 ## 7.2. Liderazgo en la era de la IA
