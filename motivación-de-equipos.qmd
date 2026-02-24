@@ -25,12 +25,15 @@ format:
         {\Huge\bfseries Motivación de equipos\par}
         \vspace{1cm}
         {\Large Hotel Mediterráneo: digitalización y conflicto intergeneracional\par}
-        \vspace{2cm}
+        \vspace{1cm}
         {\large Integrantes: \par}
         {\Large\bfseries Ángel Esteban Féliz Ferreras \par}
         {\Large\bfseries Isaías Asael Hernández Rosario \par}
         {\Large\bfseries Reynaldo Francisco Tejada Taveras \par}
         {\Large\bfseries O'Neil Alberto Medina Tolentino \par}
+        \vspace{1cm}
+        {\large Maestría: \par}
+        {\Large\bfseries Ciencia de Datos \par}
         \vspace{1cm}
         {\large Profesora \par}
         {\Large\bfseries Nuria Oriol Palarea \par}
@@ -182,6 +185,8 @@ Aplicando el modelo de @etxeberria2003aplicabilidad, identificamos los siguiente
 
 En el contexto actual, marcado por la **digitalización acelerada**, la **incertidumbre** post-pandemia, el **trabajo híbrido** (posible en ciertos roles turísticos como marketing o reservas) y la **diversidad generacional** (Baby Boomers, Generación X, Millennials, Generación Z), ningún modelo clásico por sí solo es suficiente. Proponemos un **modelo integrador y dinámico** basado en tres pilares fundamentales, que recogen lo mejor de los clásicos y los actualizan con los hallazgos de la neurociencia:
 
+\newpage
+
 1.  **Propósito y Trascendencia (Motivación Trascendente):** El cerebro necesita saber el “para qué” profundo de las tareas para mantener la motivación a largo plazo y resistir la frustración. En el sector turismo, el propósito puede ser "hacer felices a los huéspedes", "crear experiencias inolvidables que perduren en su memoria" o "contribuir a un turismo más sostenible y respetuoso con el entorno". Este propósito, cuando es compartido, activa la **dopamina** y la **oxitocina**, y da sentido al esfuerzo diario más allá de la nómina.
 
 2.  **Autonomía, Maestría y Conexión Social (Motivación Intrínseca Potenciada):** @pink2009drive ya señaló que la motivación 3.0 se basa en autonomía (control sobre el trabajo), maestría (deseo de mejorar) y propósito. A esto, desde la neurociencia social, debemos añadir la **conexión social** como un pilar fundamental. Los equipos necesitan:
@@ -195,7 +200,7 @@ Por tanto, el mejor modelo para la realidad actual del turismo es un **enfoque h
 
 # 7. Impacto de la Inteligencia Artificial en la motivación y el liderazgo
 
-La IA está transformando el turismo de forma radical: chatbots para reservas y atención al cliente 24/7, sistemas de recomendación de experiencias, análisis predictivo de preferencias, gestión de precios dinámicos, etc [@unwto2024ai]. En el Hotel Mediterráneo, la IA se utiliza para anticipar qué tipo de habitación o servicios puede preferir un cliente según su historial y el de otros perfiles similares.
+La IA está transformando el turismo de forma radical: chatbots para reservas y atención al cliente 24/7, sistemas de recomendación de experiencias, análisis predictivo de preferencias, gestión de precios dinámicos, etc [@unwto2025ai]. En el Hotel Mediterráneo, la IA se utiliza para anticipar qué tipo de habitación o servicios puede preferir un cliente según su historial y el de otros perfiles similares.
 
 ## 7.1. Transformación de roles y motivación
 
@@ -212,7 +217,7 @@ El líder en este nuevo contexto debe desempeñar un papel fundamental para evit
 *   **Desarrollar las habilidades humanas diferenciales:** El líder debe invertir conscientemente en potenciar las capacidades que la IA no puede replicar: la **inteligencia emocional**, la **creatividad**, el **pensamiento crítico** y la **ética**. Organizar talleres de *storytelling*, de atención al cliente en situaciones de alta tensión emocional, o de diseño de experiencias únicas e irrepetibles.
 *   **Velar por la ética y la transparencia:** Explicar de manera clara y sencilla cómo se usan los datos de los clientes, cómo la IA toma sus recomendaciones y qué medidas hay para evitar sesgos. La transparencia genera **confianza** (oxitocina) y refuerza la **justicia** (SCARF), elementos clave para la cohesión del equipo y la relación con los clientes [@floridi2018ai4people].
 
-**Reflexión final:** La IA, bien gestionada, tiene el potencial de aumentar la motivación y la satisfacción laboral al liberar tiempo para tareas más significativas y al proporcionar información valiosa que mejora la toma de decisiones. El peligro real es la deshumanización si se prioriza ciegamente la eficiencia y la automatización sobre el trato personal y el cuidado de las relaciones. El equilibrio solo será posible con un liderazgo consciente, empático y profundamente humano que ponga a las personas en el centro de la transformación digital.
+**Reflexión final**: La IA bien gestionada aumenta la motivación al liberar tiempo para tareas significativas y mejorar la toma de decisiones. El riesgo de deshumanización surge cuando se antepone la eficiencia al trato personal. El equilibrio exige un liderazgo empático que centre a las personas en la transformación digital.
 
 \newpage
 
