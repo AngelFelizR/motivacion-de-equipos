@@ -51,7 +51,7 @@ lang: es
 
 # Introducción
 
-El sector turístico representa uno de los motores económicos más importantes de España, aportando aproximadamente un 12% del PIB y generando millones de empleos **[CITA A SER AGREGADA: Informe anual de Exceltur o INE sobre la contribución del turismo al PIB español]** . Dentro de este sector, los hoteles se enfrentan al reto de combinar la tradición del servicio humano con la inevitable digitalización. El presente trabajo analiza el caso del **Hotel Mediterráneo**, un establecimiento boutique de 120 habitaciones situado en la Costa Brava, que decide implantar un sistema de *check-in* inteligente y personalización de la experiencia del cliente mediante Big Data.
+El sector turístico representa uno de los motores económicos más importantes de España, aportando aproximadamente un 12% del PIB y generando millones de empleos [@exceltur2024impactur]. Dentro de este sector, los hoteles se enfrentan al reto de combinar la tradición del servicio humano con la inevitable digitalización. El presente trabajo analiza el caso del **Hotel Mediterráneo**, un establecimiento boutique de 120 habitaciones situado en la Costa Brava, que decide implantar un sistema de *check-in* inteligente y personalización de la experiencia del cliente mediante Big Data [@deloitte2025travel].
 
 El equipo del hotel está formado por dos grupos claramente diferenciados:
 
@@ -60,13 +60,13 @@ El equipo del hotel está formado por dos grupos claramente diferenciados:
 
 El conflicto estalla cuando los veteranos perciben la nueva tecnología como una amenaza a su puesto de trabajo y a la esencia del servicio, mientras que los jóvenes consideran que los veteranos son una resistencia al cambio que frena la innovación.
 
-El objetivo de este trabajo es analizar la evolución de este equipo hacia un Equipo de Alto Rendimiento (EAR) aplicando los modelos clásicos de motivación (Maslow, McClelland), los roles de equipo (Belbin) y, de manera transversal, los últimos hallazgos de la neurociencia social y la inteligencia emocional. Entender qué ocurre en el cerebro de los miembros del equipo nos permitirá diseñar intervenciones más efectivas para transformar la desconfianza inicial en colaboración y alto rendimiento.
+El objetivo de este trabajo es analizar la evolución de este equipo hacia un Equipo de Alto Rendimiento (EAR) aplicando los modelos clásicos de motivación [@maslow1954motivation;@mcclelland1961achieving], los roles de equipo (Belbin) y, de manera transversal, los últimos hallazgos de la neurociencia social y la inteligencia emocional. Entender qué ocurre en el cerebro de los miembros del equipo nos permitirá diseñar intervenciones más efectivas para transformar la desconfianza inicial en colaboración y alto rendimiento.
 
 # 1. Fases de un Equipo de Alto Rendimiento (EAR) y lectura neurocientífica
 
 ## 1.1. Formación: la incertidumbre activa la amígdala
 
-En esta fase inicial, el equipo se reúne por primera vez. Se presentan los objetivos del proyecto Horizon (digitalización) y se asignan las primeras tareas. Los empleados veteranos sienten **incertidumbre** ante lo desconocido: ¿se convertirán sus habilidades en obsoletas? ¿Serán despedidos? El cerebro, ante la falta de información y la posible pérdida de estatus, activa la **amígdala**, una estructura del sistema límbico encargada de detectar amenazas y desencadenar respuestas de lucha, huida o parálisis **[CITA A SER AGREGADA: Artículo o libro que defina las funciones de la amígdala en contextos de amenaza social, ej. de Joseph LeDoux o Lisa Feldman Barrett]** . Los jóvenes, por su parte, muestran entusiasmo, pero también cierta ansiedad por no ser aceptados por el grupo dominante, lo que también puede activar sus circuitos de amenaza social.
+En esta fase inicial, el equipo se reúne por primera vez. Se presentan los objetivos del proyecto Horizon (digitalización) y se asignan las primeras tareas. Los empleados veteranos sienten **incertidumbre** ante lo desconocido: ¿se convertirán sus habilidades en obsoletas? ¿Serán despedidos? El cerebro, ante la falta de información y la posible pérdida de estatus, activa la **amígdala**, una estructura del sistema límbico encargada de detectar amenazas y desencadenar respuestas de lucha, huida o parálisis [@ledoux1996emotional;@goleman1995emotional]. Los jóvenes, por su parte, muestran entusiasmo, pero también cierta ansiedad por no ser aceptados por el grupo dominante, lo que también puede activar sus circuitos de amenaza social.
 
 **Lectura neurocientífica:** La amígdala de los veteranos interpreta el cambio tecnológico como una amenaza a su **estatus** y **seguridad laboral**. Esta activación crónica libera **cortisol**, la hormona del estrés, que inhibe la actividad de la corteza prefrontal (responsable del razonamiento y la flexibilidad cognitiva). Esto explica por qué, en las primeras reuniones, los veteranos se muestran rígidos, defensivos y poco receptivos a las nuevas ideas.
 
@@ -74,19 +74,19 @@ En esta fase inicial, el equipo se reúne por primera vez. Se presentan los obje
 
 Aparecen los primeros roces. Los veteranos se quejan de que los jóvenes “no saben tratar al cliente” y solo miran pantallas. Los jóvenes critican la lentitud de los procesos manuales y la resistencia a probar nuevas herramientas. Las reuniones se tensan y se forman dos bandos.
 
-**Lectura neurocientífica:** Se activa el **sesgo de aversión a la pérdida**, descrito por Kahneman y Tversky **[CITA A SER AGREGADA: Referencia al trabajo de Kahneman y Tversky sobre prospect theory]** : los veteranos sobrevaloran lo que creen perder (su forma tradicional de trabajar, su experticia) frente a lo que podrían ganar (eficiencia, nuevas habilidades). El **cortisol** sigue elevado en ambos grupos, lo que reduce la capacidad de la corteza prefrontal para procesar información racional y fomenta respuestas emocionales defensivas. Además, aparece el **sesgo de confirmación**: cada grupo busca activamente evidencias que respalden su postura inicial (ej. "este cliente se quejó de la frialdad del check-in digital") ignorando las que la contradicen **[CITA A SER AGREGADA: Estudio sobre sesgos cognitivos en entornos de cambio organizacional]** .
+**Lectura neurocientífica:** Se activa el **sesgo de aversión a la pérdida**, descrito por Kahneman y Tversky [@kahneman1979prospect]: los veteranos sobrevaloran lo que creen perder (su forma tradicional de trabajar, su experticia) frente a lo que podrían ganar (eficiencia, nuevas habilidades). El **cortisol** sigue elevado en ambos grupos, lo que reduce la capacidad de la corteza prefrontal para procesar información racional y fomenta respuestas emocionales defensivas. Además, aparece el **sesgo de confirmación**: cada grupo busca activamente evidencias que respalden su postura inicial (ej. "este cliente se quejó de la frialdad del check-in digital") ignorando las que la contradicen [@hodgkinson2002cognitive].
 
 ## 1.3. Normalización: la oxitocina facilita la confianza
 
 Tras varias reuniones conflictivas, la dirección decide intervenir con un taller de *team building* y la figura de un líder facilitador. Se establecen normas claras de comunicación y se diseñan pequeños proyectos conjuntos (por ejemplo, que un joven y un veterano atiendan juntos a un cliente para aprender mutuamente). Poco a poco, empiezan a comprenderse.
 
-**Lectura neurocientífica:** Las interacciones positivas, la colaboración en tareas con un objetivo común y el establecimiento de un **propósito compartido** (ofrecer la mejor experiencia al cliente) liberan **oxitocina**, la hormona de la confianza y el vínculo social **[CITA A SER AGREGADA: Estudio de Paul Zak sobre oxitocina y confianza en organizaciones]** . La oxitocina reduce la actividad de la amígdala y facilita la cooperación. Se empieza a crear **seguridad psicológica**: el cerebro de los miembros ya no percibe a los compañeros del otro grupo como una amenaza, sino como aliados con quienes pueden contar **[CITA A SER AGREGADA: Libro o artículo de Amy Edmondson sobre seguridad psicológica y su base neurobiológica]** .
+**Lectura neurocientífica:** Las interacciones positivas, la colaboración en tareas con un objetivo común y el establecimiento de un **propósito compartido** (ofrecer la mejor experiencia al cliente) liberan **oxitocina**, la hormona de la confianza y el vínculo social [@zak2008neurobiology]. La oxitocina reduce la actividad de la amígdala y facilita la cooperación. Se empieza a crear **seguridad psicológica**: el cerebro de los miembros ya no percibe a los compañeros del otro grupo como una amenaza, sino como aliados con quienes pueden contar [@edmondson1999psychological].
 
 ## 1.4. Desempeño: dopamina y estado de flujo
 
 El equipo comienza a funcionar con fluidez. Los jóvenes enseñan a los veteranos a interpretar los datos de los clientes, y los veteranos transmiten a los jóvenes claves de comunicación no verbal y atención personalizada. Las primeras métricas mejoran: reducción del tiempo de check-in, aumento de reseñas positivas.
 
-**Lectura neurocientífica:** Alcanzar estos hitos y recibir feedback positivo (tanto de los clientes como de la dirección) activa el **sistema dopaminérgico** del cerebro, generando una sensación de recompensa y placer que refuerza las conductas que han llevado al éxito **[CITA A SER AGREGADA: Artículo sobre el papel de la dopamina en la motivación y el aprendizaje por recompensa]** . El equipo entra en un **estado de flujo** (Csikszentmihalyi), caracterizado por la concentración plena, la pérdida de la noción del tiempo y el disfrute de la tarea. La dopamina consolida el círculo virtuoso de la colaboración.
+**Lectura neurocientífica:** Alcanzar estos hitos y recibir feedback positivo (tanto de los clientes como de la dirección) activa el **sistema dopaminérgico** del cerebro, generando una sensación de recompensa y placer que refuerza las conductas que han llevado al éxito [@wise2004dopamine]. El equipo entra en un **estado de flujo** (Csikszentmihalyi), caracterizado por la concentración plena, la pérdida de la noción del tiempo y el disfrute de la tarea. La dopamina consolida el círculo virtuoso de la colaboración.
 
 ## 1.5. Madurez: seguridad psicológica consolidada
 
@@ -99,9 +99,11 @@ El equipo ya es un EAR. Cuando surgen problemas (por ejemplo, una caída del sis
 
 Para que un equipo funcione, las normas deben ser explícitas, pues reducen la **carga cognitiva** (el cerebro no tiene que estar interpretando constantemente las reglas no escritas) y aumentan la previsibilidad, lo que calma la amígdala y reduce la incertidumbre. En el Hotel Mediterráneo se establecieron las siguientes reglas, inspiradas en los principios de la inteligencia emocional (Goleman) y la comunicación no violenta (Rosenberg):
 
-*   **Escucha activa sin defensa:** Durante las reuniones, cuando alguien expresa una queja o una idea, los demás no pueden responder hasta repetir con sus propias palabras lo que han entendido. Esta técnica, conocida como *looping*, desactiva la reactividad de la amígdala al obligar a la corteza prefrontal a procesar el mensaje del otro, demostrando respeto y validando la emoción ajena **[CITA A SER AGREGADA: Estudio sobre técnicas de escucha activa y su impacto en la reducción de la activación amigdalina]** .
+*   **Escucha activa sin defensa:** Durante las reuniones, cuando alguien expresa una queja o una idea, los demás no pueden responder hasta repetir con sus propias palabras lo que han entendido. Esta técnica, conocida como *looping*, desactiva la reactividad de la amígdala al obligar a la corteza prefrontal a procesar el mensaje del otro, demostrando respeto y validando la emoción ajena.
 
-*   **Derecho a la emoción:** Se reconoce que el miedo, la frustración o el enfado son señales que deben ser expresadas y acogidas, no reprimidas. Nombrar la emoción ("veo que esto te genera frustración") ayuda a regularla, ya que activa la corteza prefrontal y reduce la activación de la amígdala **[CITA A SER AGREGADA: Estudio sobre el "etiquetado de emociones" (affect labeling) y su efecto regulador]**.
+*   **Derecho a la emoción:** Se reconoce que el miedo, la frustración o el enfado son señales que deben ser expresadas y acogidas, no reprimidas. Nombrar la emoción ("veo que esto te genera frustración") ayuda a regularla, ya que activa la corteza prefrontal y reduce la activación de la amígdala.
+
+\newpage
 
 *   **Feedback en tres pasos:** 
 
@@ -111,13 +113,13 @@ Para que un equipo funcione, las normas deben ser explícitas, pues reducen la *
     
     * Este formato, basado en la comunicación no violenta, evita activaciones defensivas al centrarse en hechos y necesidades, no en críticas personales.
 
-*   **Pausas conscientes:** Cuando una discusión se caldea y se observan signos de reactividad emocional (tono de voz elevado, posturas tensas), cualquier miembro puede pedir un “tiempo fuera” de cinco minutos. Esta pausa permite que el sistema nervioso se regule, activando el sistema parasimpático y bajando los niveles de cortisol, para que la conversación pueda retomarse con la corteza prefrontal de nuevo al mando **[CITA A SER AGREGADA: Artículo sobre el papel de las pausas en la regulación emocional y la toma de decisiones]** .
+*   **Pausas conscientes:** Cuando una discusión se caldea y se observan signos de reactividad emocional (tono de voz elevado, posturas tensas), cualquier miembro puede pedir un “tiempo fuera” de cinco minutos. Esta pausa permite que el sistema nervioso se regule, activando el sistema parasimpático y bajando los niveles de cortisol, para que la conversación pueda retomarse con la corteza prefrontal de nuevo al mando.
 
 Estas reglas, basadas en la neurociencia, permiten que el equipo gestione las tensiones de manera constructiva, sin destruir la confianza y el vínculo social que tanto ha costado construir.
 
 # 3. Factores críticos de éxito desde la neurociencia social (Modelo SCARF)
 
-Identificamos los siguientes factores críticos en el caso del Hotel Mediterráneo, relacionándolos con los circuitos cerebrales de recompensa y amenaza, utilizando como marco el modelo SCARF (Status, Certainty, Autonomy, Relatedness, Fairness) de David Rock **[CITA A SER AGREGADA: Artículo o libro de David Rock sobre el modelo SCARF y su aplicación en el liderazgo]** .
+Identificamos los siguientes factores críticos en el caso del Hotel Mediterráneo, relacionándolos con los circuitos cerebrales de recompensa y amenaza, utilizando como marco el modelo SCARF (Status, Certainty, Autonomy, Relatedness, Fairness) [@rock2008scarf].
 
 | Factor crítico | Manifestación en el caso | Dimensión SCARF y base neurocientífica |
 |----------------|--------------------------|--------------------------------------|
@@ -130,7 +132,7 @@ Identificamos los siguientes factores críticos en el caso del Hotel Mediterrán
 
 # 4. Roles de equipo (Belbin) y estilos cognitivos
 
-Aplicando el modelo de Belbin **[CITA A SER AGREGADA: Libro de Meredith Belbin sobre roles de equipo]** , identificamos los siguientes roles en el equipo del Hotel Mediterráneo:
+Aplicando el modelo de @etxeberria2003aplicabilidad , identificamos los siguientes roles en el equipo del Hotel Mediterráneo:
 
 | Rol (Belbin) | Persona / perfil | Aporte al equipo |
 |--------------|------------------|------------------|
@@ -143,7 +145,7 @@ Aplicando el modelo de Belbin **[CITA A SER AGREGADA: Libro de Meredith Belbin s
 | **Evaluador** | Controller financiero (externo al equipo): analiza la viabilidad económica de las propuestas. | Objetividad, análisis crítico. |
 | **Especialista** | Joven técnico de IT: conocimiento profundo del software de gestión. | Conocimiento técnico. |
 
-**Reflexión desde los estilos cognitivos:** La diversidad de **estilos cognitivos** (analítico vs. intuitivo, reflexivo vs. impulsivo) es crucial para evitar “puntos ciegos” en la toma de decisiones. Los veteranos aportan un pensamiento **intuitivo y experiencial** (heurísticos basados en años de práctica y el reconocimiento de patrones), mientras que los jóvenes aportan un pensamiento **analítico y basado en datos**. La combinación permite decisiones más robustas: los datos sugieren patrones y tendencias, pero la intuición humana, especialmente la del experto, detecta matices y señales contextuales que los algoritmos aún no pueden captar (por ejemplo, el cliente que dice estar bien pero su lenguaje corporal indica lo contrario). La neurociencia muestra que la intuición experta está asociada a la activación de la **ínsula** y la capacidad de integrar señales viscerales y emocionales de manera inconsciente **[CITA A SER AGREGADA: Estudio sobre la base neurológica de la intuición y la toma de decisiones experta, ej. de Antonio Damasio o Gerd Gigerenzer]** .
+**Reflexión desde los estilos cognitivos:** La diversidad de **estilos cognitivos** (analítico vs. intuitivo, reflexivo vs. impulsivo) es crucial para evitar “puntos ciegos” en la toma de decisiones. Los veteranos aportan un pensamiento **intuitivo y experiencial** (heurísticos basados en años de práctica y el reconocimiento de patrones), mientras que los jóvenes aportan un pensamiento **analítico y basado en datos**. La combinación permite decisiones más robustas: los datos sugieren patrones y tendencias, pero la intuición humana, especialmente la del experto, detecta matices y señales contextuales que los algoritmos aún no pueden captar (por ejemplo, el cliente que dice estar bien pero su lenguaje corporal indica lo contrario). La neurociencia muestra que la intuición experta está asociada a la activación de la **ínsula** y la capacidad de integrar señales viscerales y emocionales de manera inconsciente [@damasio1994descartes].
 
 # 5. Tipos de motivación y modelos de Maslow y McClelland
 
@@ -151,7 +153,7 @@ Aplicando el modelo de Belbin **[CITA A SER AGREGADA: Libro de Meredith Belbin s
 
 *   **Intrínseca:** El placer y la satisfacción que produce la tarea en sí misma. Los veteranos sienten motivación intrínseca cuando un cliente les agradece una atención especial y personalizada. Los jóvenes, cuando el sistema que han diseñado funciona a la perfección y ven los datos positivos.
 *   **Extrínseca:** La motivación que proviene de recompensas externas. En el caso, incluye los incentivos económicos (bonos por cumplimiento de objetivos de satisfacción), el reconocimiento público en las reuniones de equipo y la posibilidad de ascenso.
-*   **Trascendente:** El deseo de contribuir a algo más grande que uno mismo. En este caso, el equipo se siente orgulloso de representar la imagen del hotel y de contribuir al turismo sostenible y de calidad de la región. Este tipo de motivación es clave para conectar con el propósito y activar la dopamina a largo plazo **[CITA A SER AGREGADA: Libro de Daniel Pink "Drive" o de Viktor Frankl sobre la búsqueda de sentido]** .
+*   **Trascendente:** El deseo de contribuir a algo más grande que uno mismo. En este caso, el equipo se siente orgulloso de representar la imagen del hotel y de contribuir al turismo sostenible y de calidad de la región. Este tipo de motivación es clave para conectar con el propósito y activar la dopamina a largo plazo [@pink2009drive].
 
 ## 5.2. Aplicación del modelo de Maslow
 
@@ -182,18 +184,18 @@ En el contexto actual, marcado por la **digitalización acelerada**, la **incert
 
 1.  **Propósito y Trascendencia (Motivación Trascendente):** El cerebro necesita saber el “para qué” profundo de las tareas para mantener la motivación a largo plazo y resistir la frustración. En el sector turismo, el propósito puede ser "hacer felices a los huéspedes", "crear experiencias inolvidables que perduren en su memoria" o "contribuir a un turismo más sostenible y respetuoso con el entorno". Este propósito, cuando es compartido, activa la **dopamina** y la **oxitocina**, y da sentido al esfuerzo diario más allá de la nómina.
 
-2.  **Autonomía, Maestría y Conexión Social (Motivación Intrínseca Potenciada):** Pink (2009) **[CITA A SER AGREGADA: Libro "Drive" de Daniel Pink]** ya señaló que la motivación 3.0 se basa en autonomía (control sobre el trabajo), maestría (deseo de mejorar) y propósito. A esto, desde la neurociencia social, debemos añadir la **conexión social** como un pilar fundamental. Los equipos necesitan:
+2.  **Autonomía, Maestría y Conexión Social (Motivación Intrínseca Potenciada):** @pink2009drive ya señaló que la motivación 3.0 se basa en autonomía (control sobre el trabajo), maestría (deseo de mejorar) y propósito. A esto, desde la neurociencia social, debemos añadir la **conexión social** como un pilar fundamental. Los equipos necesitan:
     *   **Autonomía:** Para sentir que tienen control sobre su entorno, lo que reduce el cortisol y activa la dopamina.
     *   **Maestría (Dominio):** Oportunidades para desarrollar sus habilidades y aprender continuamente. El progreso en el aprendizaje es un potente activador de la dopamina.
     *   **Conexión Social (Pertenencia):** Un entorno de **seguridad psicológica** que permita experimentar y equivocarse sin miedo, y donde las relaciones sean de apoyo y confianza. Esto maximiza la oxitocina y minimiza las respuestas de amenaza.
 
-3.  **Flexibilidad y Personalización (Integrando a Maslow y McClelland):** La pirámide de Maslow sigue siendo útil como marco general, pero hoy sabemos que las personas no ascienden de manera rígida. El modelo ERG de Alderfer, que permite "subir y bajar" entre necesidades existenciales, de relación y de crecimiento, se ajusta mejor a la realidad volátil actual **[CITA A SER AGREGADA: Libro de Clayton Alderfer sobre la teoría ERG]** . Un empleado puede estar motivado por el crecimiento (autorrealización) un mes, y verse desplazado a la seguridad (miedo al despido) al siguiente si la empresa anuncia recortes. El líder debe ser sensible a estas fluctuaciones. Del mismo modo, el modelo de McClelland nos ayuda a **personalizar** las tareas y el reconocimiento: no todos buscan lo mismo, y un buen líder "habla en el idioma" motivacional de cada miembro del equipo.
+3.  **Flexibilidad y Personalización (Integrando a Maslow y McClelland):** La pirámide de Maslow sigue siendo útil como marco general, pero hoy sabemos que las personas no ascienden de manera rígida. El modelo ERG de Alderfer, que permite "subir y bajar" entre necesidades existenciales, de relación y de crecimiento, se ajusta mejor a la realidad volátil actual [@turienzo2016pequeño]. Un empleado puede estar motivado por el crecimiento (autorrealización) un mes, y verse desplazado a la seguridad (miedo al despido) al siguiente si la empresa anuncia recortes. El líder debe ser sensible a estas fluctuaciones. Del mismo modo, el modelo de McClelland nos ayuda a **personalizar** las tareas y el reconocimiento: no todos buscan lo mismo, y un buen líder "habla en el idioma" motivacional de cada miembro del equipo.
 
 Por tanto, el mejor modelo para la realidad actual del turismo es un **enfoque híbrido y situacional que combine la jerarquía de necesidades de Maslow (para entender las bases), la tipología de McClelland (para personalizar), la flexibilidad del modelo ERG de Alderfer (para adaptarse al cambio) y el énfasis en el propósito, la autonomía y la conexión social (para sostener la motivación en entornos VUCA)**. La neurociencia respalda esta combinación: el cerebro necesita **seguridad** (para no activar la amígdala), **conexión social** (oxitocina), **retos alcanzables y progreso** (dopamina) y un **sentido de contribución** (activación de la corteza prefrontal).
 
 # 7. Impacto de la Inteligencia Artificial en la motivación y el liderazgo
 
-La IA está transformando el turismo de forma radical: chatbots para reservas y atención al cliente 24/7, sistemas de recomendación de experiencias, análisis predictivo de preferencias, gestión de precios dinámicos, etc. En el Hotel Mediterráneo, la IA se utiliza para anticipar qué tipo de habitación o servicios puede preferir un cliente según su historial y el de otros perfiles similares.
+La IA está transformando el turismo de forma radical: chatbots para reservas y atención al cliente 24/7, sistemas de recomendación de experiencias, análisis predictivo de preferencias, gestión de precios dinámicos, etc [@unwto2024ai]. En el Hotel Mediterráneo, la IA se utiliza para anticipar qué tipo de habitación o servicios puede preferir un cliente según su historial y el de otros perfiles similares.
 
 ## 7.1. Transformación de roles y motivación
 
@@ -208,7 +210,7 @@ El líder en este nuevo contexto debe desempeñar un papel fundamental para evit
 *   **Integrar la IA como un miembro más del equipo:** Comunicar constantemente que la tecnología es una herramienta al servicio de las personas, no al revés. El objetivo no es sustituir al recepcionista, sino darle un "superpoder" para que pueda hacer mejor su trabajo.
 *   **Fomentar la colaboración humano-IA:** Diseñar procesos donde el equipo analice conjuntamente los informes generados por la IA, debata sus implicaciones y decida qué acciones tomar. Esto crea un sentido de **control y autonomía** y evita la sensación de ser gobernados por algoritmos opacos.
 *   **Desarrollar las habilidades humanas diferenciales:** El líder debe invertir conscientemente en potenciar las capacidades que la IA no puede replicar: la **inteligencia emocional**, la **creatividad**, el **pensamiento crítico** y la **ética**. Organizar talleres de *storytelling*, de atención al cliente en situaciones de alta tensión emocional, o de diseño de experiencias únicas e irrepetibles.
-*   **Velar por la ética y la transparencia:** Explicar de manera clara y sencilla cómo se usan los datos de los clientes, cómo la IA toma sus recomendaciones y qué medidas hay para evitar sesgos. La transparencia genera **confianza** (oxitocina) y refuerza la **justicia** (SCARF), elementos clave para la cohesión del equipo y la relación con los clientes **[CITA A SER AGREGADA: Artículo o libro sobre liderazgo ético en la era de la IA]** .
+*   **Velar por la ética y la transparencia:** Explicar de manera clara y sencilla cómo se usan los datos de los clientes, cómo la IA toma sus recomendaciones y qué medidas hay para evitar sesgos. La transparencia genera **confianza** (oxitocina) y refuerza la **justicia** (SCARF), elementos clave para la cohesión del equipo y la relación con los clientes [@floridi2018ai4people].
 
 **Reflexión final:** La IA, bien gestionada, tiene el potencial de aumentar la motivación y la satisfacción laboral al liberar tiempo para tareas más significativas y al proporcionar información valiosa que mejora la toma de decisiones. El peligro real es la deshumanización si se prioriza ciegamente la eficiencia y la automatización sobre el trato personal y el cuidado de las relaciones. El equilibrio solo será posible con un liderazgo consciente, empático y profundamente humano que ponga a las personas en el centro de la transformación digital.
 
@@ -228,36 +230,5 @@ Como equipo, hemos aprendido que la verdadera motivación no se impone ni se iny
 
 # Referencias
 
-*A completar por los integrantes del equipo. Se deben buscar al menos 12-15 fuentes académicas y profesionales de alta calidad, distribuidas en las siguientes categorías. Utilizar el formato BibTeX para crear el archivo `references.bib` y luego insertar las citas en el texto con `@autor_año`.*
-
-**Neurociencia aplicada al liderazgo y equipos:**
-
-- **[CITA A SER AGREGADA: Artículo o libro que defina las funciones de la amígdala en contextos de amenaza social, ej. de Joseph LeDoux o Lisa Feldman Barrett]**
-- **[CITA A SER AGREGADA: Referencia al trabajo de Kahneman y Tversky sobre prospect theory (aversión a la pérdida)]**
-- **[CITA A SER AGREGADA: Estudio sobre sesgos cognitivos en entornos de cambio organizacional]**
-- **[CITA A SER AGREGADA: Estudio de Paul Zak sobre oxitocina y confianza en organizaciones]**
-- **[CITA A SER AGREGADA: Libro o artículo de Amy Edmondson sobre seguridad psicológica y su base neurobiológica]**
-- **[CITA A SER AGREGADA: Artículo sobre el papel de la dopamina en la motivación y el aprendizaje por recompensa]**
-- **[CITA A SER AGREGADA: Estudio sobre técnicas de escucha activa y su impacto en la reducción de la activación amigdalina]**
-- **[CITA A SER AGREGADA: Estudio sobre el "etiquetado de emociones" (affect labeling) y su efecto regulador]**
-- **[CITA A SER AGREGADA: Artículo sobre el papel de las pausas en la regulación emocional y la toma de decisiones]**
-- **[CITA A SER AGREGADA: Artículo o libro de David Rock sobre el modelo SCARF y su aplicación en el liderazgo]**
-- **[CITA A SER AGREGADA: Estudio sobre la base neurológica de la intuición y la toma de decisiones experta, ej. de Antonio Damasio o Gerd Gigerenzer]**
-
-**Modelos de motivación, liderazgo y roles de equipo:**
-
-- **[CITA A SER AGREGADA: Libro de Abraham Maslow "Motivation and Personality" (1954)]**
-- **[CITA A SER AGREGADA: Libro de David McClelland "The Achieving Society" (1961)]**
-- **[CITA A SER AGREGADA: Libro de Clayton Alderfer sobre la teoría ERG (Existencia, Relación, Crecimiento)]**
-- **[CITA A SER AGREGADA: Libro de Meredith Belbin sobre roles de equipo, ej. "Management Teams: Why They Succeed or Fail"]**
-- **[CITA A SER AGREGADA: Libro de Daniel Goleman "Emotional Intelligence" (1995)]**
-- **[CITA A SER AGREGADA: Libro de Daniel Pink "Drive: The Surprising Truth About What Motivates Us" (2009)]**
-- **[CITA A SER AGREGADA: Libro de Fisher, Ury y Patton "Getting to Yes" (1991) para negociación colaborativa]**
-- **[CITA A SER AGREGADA: Libro de Khoi Tu "Superteams" (casos de éxito en equipos)]**
-
-**Sector turismo, digitalización e IA:**
-
-- **[CITA A SER AGREGADA: Informe anual de Exceltur o INE sobre la contribución del turismo al PIB español y datos de empleo]**
-- **[CITA A SER AGREGADA: Estudio de una consultora (ej. Deloitte, McKinsey) sobre la digitalización en el sector hotelero]**
-- **[CITA A SER AGREGADA: Artículo académico o informe (ej. de la OMT) sobre el impacto de la IA en el empleo turístico y las nuevas habilidades requeridas]**
-- **[CITA A SER AGREGADA: Artículo o libro sobre liderazgo ético en la era de la IA]**
+::: {#refs}
+:::
