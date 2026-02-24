@@ -132,7 +132,7 @@ Identificamos los siguientes factores críticos en el caso del Hotel Mediterrán
 
 # 4. Roles de equipo (Belbin) y estilos cognitivos
 
-Aplicando el modelo de @etxeberria2003aplicabilidad , identificamos los siguientes roles en el equipo del Hotel Mediterráneo:
+Aplicando el modelo de @etxeberria2003aplicabilidad, identificamos los siguientes roles en el equipo del Hotel Mediterráneo:
 
 | Rol (Belbin) | Persona / perfil | Aporte al equipo |
 |--------------|------------------|------------------|
